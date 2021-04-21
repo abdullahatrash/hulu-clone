@@ -16,9 +16,9 @@ function Header() {
             </div>
             <Image
             className="object-contain"
-            src="https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png?fit=1280%2C680"
-             width={200} 
-             height={100} />
+            src="https://logos.textgiraffe.com/logos/logo-name/Nana-designstyle-popstar-m.png"
+             width={300} 
+             height={200} />
         </header>
     )
 }

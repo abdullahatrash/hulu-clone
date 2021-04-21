@@ -1,5 +1,5 @@
 module.exports = {
     images: {
-        domains: ["press.hulu.com", "image.tmdb.org"],
+        domains: ["logos.textgiraffe.com", "image.tmdb.org"],
     }
 } 
